@@ -23,12 +23,12 @@ I applied this approach to Vespera Controller, developing the idea from initial 
 
 I now understand prototyping as a way of thinking through action. The important thing is not to have every detail solved before beginning, but to create a process that allows ideas to develop.
 
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://live.staticflickr.com/65535/55629439786_87e35d39a9_b.jpg" alt="Initial idea" style="width: 50%; height: auto;">
-  <img src="https://live.staticflickr.com/65535/55628439052_e36826fd04_b.jpg" alt="Initial sketch" style="width: 50%; height: auto;">
+<div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
+  <img src="https://live.staticflickr.com/65535/55629439786_87e35d39a9_b.jpg" alt="Initial idea" style="width: 48%; height: auto; object-fit: contain;">
+  <img src="https://live.staticflickr.com/65535/55628439052_e36826fd04_b.jpg" alt="Initial sketch" style="width: 48%; height: auto; object-fit: contain;">
 </div>
 
-<p><em>Initial ideas and sketches for the Vespera Controller.</em></p>
+<p style="text-align: center;"><em>Initial ideas and sketches for the Vespera Controller.</em></p>
 
 ---
 
@@ -50,12 +50,12 @@ These observations changed how I understand connected environments. Technology c
 
 I now see people not simply as sources of data, but as participants and decision-makers within connected environments. Good design should consider both what technology can measure and how its presence affects the spaces we share.
 
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://live.staticflickr.com/65535/55653786527_84dd581d80_b.jpg" alt="Workshop at Olympic Park" style="width: 50%; height: auto;">
-  <img src="https://live.staticflickr.com/65535/55653786537_ea68508edf_b.jpg" alt="Echo Box at Olympic Park" style="width: 50%; height: auto;">
+<div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
+  <img src="https://live.staticflickr.com/65535/55653786527_84dd581d80_b.jpg" alt="Workshop at Olympic Park" style="width: 48%; height: auto; object-fit: contain;">
+  <img src="https://live.staticflickr.com/65535/55653786537_ea68508edf_b.jpg" alt="Echo Box at Olympic Park" style="width: 48%; height: auto; object-fit: contain;">
 </div>
 
-<p><em>Observations from the Olympic Park workshop, including the Echo Box.</em></p>
+<p style="text-align: center;"><em>Observations from the Olympic Park workshop, including the Echo Box.</em></p>
 
 ---
 
@@ -77,12 +77,12 @@ This experience changed how I think about environmental data. A sensor does not 
 
 The same issue applies to smart buildings and cities. Decisions based on sensor data are only as meaningful as the measurements and interpretations behind them.
 
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://live.staticflickr.com/65535/55616924880_3ba842001a_b.jpg" alt="Testing colour recognition with a mango" style="width: 50%; height: auto;">
-  <img src="https://live.staticflickr.com/65535/55619335774_8e19977cfb_b.jpg" alt="Adjusting and testing sensor parameters" style="width: 50%; height: auto;">
+<div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
+  <img src="https://live.staticflickr.com/65535/55616924880_3ba842001a_b.jpg" alt="Testing colour recognition with a mango" style="width: 48%; height: auto; object-fit: contain;">
+  <img src="https://live.staticflickr.com/65535/55619335774_8e19977cfb_b.jpg" alt="Adjusting and testing sensor parameters" style="width: 48%; height: auto; object-fit: contain;">
 </div>
 
-<p><em>Colour recognition tests and sensor parameter calibration during the development of the Vespera Controller.</em></p>
+<p style="text-align: center;"><em>Colour recognition tests and sensor parameter calibration during the development of the Vespera Controller.</em></p>
 
 ---
 
@@ -102,12 +102,12 @@ However, my small user test also has limitations. A controller that feels intuit
 
 For me, the lesson is not that technology should always be simple. It is that complexity should have a purpose. Good design requires balancing technical possibilities with usability, accessibility and user control.
 
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://live.staticflickr.com/65535/55618120822_00e8912ac2_b.jpg" alt="First Vespera Controller prototype" style="width: 50%; height: auto;">
-  <img src="https://live.staticflickr.com/65535/55619335749_9986bdfacc_b.jpg" alt="Rhino modelling and rendering of the Vespera enclosure" style="width: 50%; height: auto;">
+<div style="display: flex; gap: 16px; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
+  <img src="https://live.staticflickr.com/65535/55618120822_00e8912ac2_b.jpg" alt="First Vespera Controller prototype" style="width: 48%; height: auto; object-fit: contain;">
+  <img src="https://live.staticflickr.com/65535/55619335749_9986bdfacc_b.jpg" alt="Rhino modelling and rendering of the Vespera enclosure" style="width: 48%; height: auto; object-fit: contain;">
 </div>
 
-<p><em>From the first physical prototype to exploring a potential enclosure design in Rhino.</em></p>
+<p style="text-align: center;"><em>From the first physical prototype to exploring a potential enclosure design in Rhino.</em></p>
 
 ---
 
@@ -129,8 +129,8 @@ This is especially important when considering future connected environments. As 
 
 For me, embracing AI means using it to expand what I can explore, not allowing it to replace my curiosity or judgement. AI can help me start more quickly, but I still need to decide where to start and why.
 
-<figure>
-  <img src="https://live.staticflickr.com/65535/55653816982_67e33345d2_b.jpg" alt="Vespera Studio website interface" style="width: 100%; height: auto;">
+<figure style="text-align: center; margin: 20px auto;">
+  <img src="https://live.staticflickr.com/65535/55653816982_67e33345d2_b.jpg" alt="Vespera Studio website interface" style="width: 85%; max-width: 800px; height: auto; object-fit: contain;">
   <figcaption><em>Vespera Studio: a web-based interface explored as an additional way to interact with the Vespera Controller.</em></figcaption>
 </figure>
 

@@ -135,14 +135,14 @@ The most important lesson I will take from this module is that meaningful ideas 
 
 ## References
 
-- ams OSRAM (2018) *TCS3200: Programmable Color Light-to-Frequency Converter*. Datasheet, version 1-01, 14 March. Available at: https://look.ams-osram.com/m/664723bdb31f55db/original/TCS3200-DS000107.pdf (Accessed: 16 November 2026).
+- ams OSRAM (2018) *TCS3200: Programmable Color Light-to-Frequency Converter*. Datasheet, version 1-01, 14 March. Available at: [https://look.ams-osram.com/m/664723bdb31f55db/original/TCS3200-DS000107.pdf](https://look.ams-osram.com/m/664723bdb31f55db/original/TCS3200-DS000107.pdf) (Accessed: 15 November 2026).
 
-- International Organization for Standardization (2019) *ISO 9241-210:2019 Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems*. Available at: [https://www.iso.org/standard/77520.html](https://www.iso.org/standard/77520.html) (Accessed: 16 November 2026).
+- International Organization for Standardization (2019) *ISO 9241-210:2019 Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems*. Available at: [https://www.iso.org/standard/77520.html](https://www.iso.org/standard/77520.html) (Accessed: 15 November 2026).
 
 - Kitchin, R. (2014) ‘The real-time city? Big data and smart urbanism’, *GeoJournal*, 79, pp. 1–14. Available at: [https://doi.org/10.1007/s10708-013-9516-8](https://doi.org/10.1007/s10708-013-9516-8).
 
-- Queen Elizabeth Olympic Park (2017) ‘Smart detectors to monitor urban bat life’, 29 June. Available at: [https://www.queenelizabetholympicpark.co.uk/our-stories/smart-detectors-monitor-urban-bat-life](https://www.queenelizabetholympicpark.co.uk/our-stories/smart-detectors-monitor-urban-bat-life) (Accessed: 16 November 2026).
+- Queen Elizabeth Olympic Park (2017) ‘Smart detectors to monitor urban bat life’, 29 June. Available at: [https://www.queenelizabetholympicpark.co.uk/our-stories/smart-detectors-monitor-urban-bat-life](https://www.queenelizabetholympicpark.co.uk/our-stories/smart-detectors-monitor-urban-bat-life) (Accessed: 15 November 2026).
 
-- UCL CASA-CE (n.d.) *Vespera README*. Available at: [CASA0014 Vespera documentation](https://github.com/Leocean22/casa0014-vespera-controller) (Accessed: 16 November 2026).
+- UCL CASA-CE (n.d.) *Vespera README*. Available at: [CASA0014 Vespera documentation](https://github.com/Leocean22/casa0014-vespera-controller) (Accessed: 10 November 2026).
 
-- Weiser, M. and Brown, J.S. (1996) *The Coming Age of Calm Technology*. Xerox PARC, 5 October. Available at: [https://calmtech.com/papers/coming-age-calm-technology](https://calmtech.com/papers/coming-age-calm-technology) (Accessed: 16 November 2026).
+- Weiser, M. and Brown, J.S. (1996) *The Coming Age of Calm Technology*. Xerox PARC, 5 October. Available at: [https://calmtech.com/papers/coming-age-calm-technology](https://calmtech.com/papers/coming-age-calm-technology) (Accessed: 12 November 2026).

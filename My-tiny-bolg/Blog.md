@@ -137,6 +137,7 @@ My understanding of IoT has moved beyond the idea of connecting devices for conv
 From observing environmental monitoring equipment in Olympic Park to testing the limitations of my own colour sensor, I have realised that collecting data is only one part of understanding an environment. We must also consider how technology affects people, wildlife and the spaces they share.
 
 The most important lesson I will take from this module is that meaningful ideas develop through observation, experimentation and action. Connected technologies can help us understand our surroundings, but their value ultimately depends on how thoughtfully we design them, whose needs they serve and how they shape the environments we share.
+
 ---
 
 ## Project Links
